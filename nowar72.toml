@@ -1,0 +1,142 @@
+[general]
+html.pre = "header.html"
+html.post = "footer.html"
+
+[[block]]
+image.url = "/img/logo_stroke.300px.png"
+image.alt = "Надпись TMN белыми буквами на чёрном фоне, через которую проходит зелёная лента."
+image.classes = ["logo"]
+#image.property = "logo"
+
+[[block]]
+heading.level = 1
+heading.text = "Тюменское движение #НЕТВОЙНЕ"
+heading.classes = ["align-center"]
+heading.property = "name"
+
+[[block]]
+plain.text = "Независимая группа региональных активисток и активистов."
+plain.classes = ["align-center", "bio"]
+plain.property = "description"
+
+[[block]]
+link.url = "https://t.me/nowar72"
+link.title = "Подписаться на наш канал"
+link.icon.path = "icons/Logos/telegram-fill.svg"
+link.icon.alt = "Телеграм"
+
+[[block]]
+link.url = "https://docs.google.com/forms/d/e/1FAIpQLSfUtaf8TUJhTp0TCuG8jFKzyZ0VTkyO5tkYjJGgKICp75_xQg/viewform"
+link.title = "Присоединиться к антивоенной кампании"
+link.icon.path = "icons/System/add-circle-fill.svg"
+link.property = "significantLink"
+
+[[block]]
+link.url = "https://remap-ru.com/join"
+link.title = "Подписаться на антивоенные сообщества России"
+link.icon.path = "icons/User/team-fill.svg"
+
+[[block]]
+heading.level = 2
+heading.text = "Доступ к информации"
+
+[[block]]
+plain.text = "Можно научиться обходить блокировки, а можно подписаться на рассылку (почта Яндекс или Mail.ru может не работать)."
+
+[[block]]
+link.url = "https://openrunet.org/"
+link.title = "Обход блокировок Рунета"
+link.icon.path = "icons/User/spy-fill.svg"
+
+[[block]]
+link.url = "https://свободныйвзгляд.рф/"
+link.title = "Читать новости без цензуры"
+link.icon.path = "icons/Document/newspaper-fill.svg"
+
+[[block]]
+link.url = "https://forms.sendpulse.com/8670eb6d40"
+link.title = "Подписаться на «Конверт»"
+link.icon.path = "icons/Business/mail-add-fill.svg"
+
+[[block]]
+link.url = "https://getsignal.news/"
+link.title = "Подписаться на «Сигнал»"
+link.icon.path = "icons/Business/mail-add-fill.svg"
+
+[[block]]
+link.url = "mailto:antiwarletter@doxa.team?subject=Подпишите%20меня"
+link.title = "Подписаться на рассылку DOXA"
+link.icon.path = "icons/Business/mail-add-fill.svg"
+
+[[block]]
+heading.level = 2
+heading.text = "Наши кампании"
+
+#[[block]]
+#link.url = "https://protest.nowar72.info/"
+#link.title = "Протест в твоём дворе"
+#link.icon.path = "icons/Buildings/community-fill.svg"
+
+[[block]]
+link.url = "https://t.me/+33egegNnaS43N2My"
+link.title = "Волонтёры-почтальоны"
+link.icon.path = "icons/Business/inbox-archive-fill.svg"
+link.property = "significantLink"
+
+[[block]]
+link.url = "https://t.me/+W9u06L-hrVk1MjAy"
+link.title = "Помощь беженцам"
+link.icon.path = "icons/Finance/hand-heart-fill.svg"
+
+[[block]]
+link.url = "https://taplink.cc/freekirill"
+link.title = "Свободу Кириллу Мартюшеву!"
+link.icon.path = "icons/System/arrow-right-circle-fill.svg"
+
+[[block]]
+heading.level = 2
+heading.text = "Анонимная переписка"
+
+[[block]]
+plain.text = "Публикуем красивые фото граффити, листовок и зелёных лент. Помогаем организоваться. Принимаем запросы от СМИ."
+
+[[block]]
+link.url = "mailto:contact@nowar72.info"
+link.title = "Электронная почта"
+link.icon.path = "icons/Business/mail-send-fill.svg"
+link.property = "email"
+
+[[block]]
+link.url = "tg://resolve?domain=stopwar_tmn_bot"
+link.title = "Telegram"
+link.icon.path = "icons/Logos/telegram-fill.svg"
+link.property = "contactPoint"
+
+[[block]]
+heading.level = 2
+heading.text = "Пожертвования"
+
+[[block]]
+link.url = "https://boosty.to/nowar72"
+link.title = "Ежемесячный платёж (Boosty)"
+link.icon.path = "icons/Business/calendar-check-fill.svg"
+
+[[block]]
+link.url = "https://sobe.ru/na/32B2N0L7u2S7"
+link.title = "Единоразовый платёж"
+link.icon.path = "icons/Finance/bank-card-fill.svg"
+
+[[block]]
+link.url = "bitcoin:bc1q8z37xlzjm2pqzsakkhd2ylwnqfmjycl6hxgk66"
+link.title = "Bitcoin"
+link.icon.path = "icons/Finance/bit-coin-fill.svg"
+
+[[block]]
+link.url = "ethereum:0x8159693bD469df98f27b1C4b6630859fff5A481F"
+link.title = "Ethereum"
+link.icon.path = "icons/Finance/copper-coin-fill.svg"
+
+[[block]]
+link.url = "monero:8AdYZ9qeHcZgsaMMmvujiwTS9e4rt2hET2Ndpm3Co33yYpNd3MtvHaM3H2dwpdASPWjc4dEo9enScSQaifkk4huc1JEEYeo"
+link.title = "Monero"
+link.icon.path = "icons/Finance/copper-coin-fill.svg"
