@@ -1,9 +1,19 @@
-image: alpine:latest
+image: python:latest
+
+variables:
+  PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
+
+cache:
+  paths:
+    - .cache/pip
+
+before_script:
+  - pip install linkgen
 
 pages:
   stage: deploy
   script:
-  - echo 'Nothing to do...'
+  - linkgen-web < nowar72.toml > public/index.html
   artifacts:
     paths:
     - public
