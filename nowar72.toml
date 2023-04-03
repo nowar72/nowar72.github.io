@@ -100,11 +100,11 @@ heading.text = "Анонимная переписка"
 [[block]]
 plain.text = "Публикуем красивые фото граффити, листовок и зелёных лент. Помогаем организоваться. Принимаем запросы от СМИ."
 
-[[block]]
-link.url = "mailto:contact@nowar72.info"
-link.title = "Электронная почта"
-link.icon.path = "icons/Business/mail-send-fill.svg"
-link.property = "email"
+#[[block]]
+#link.url = "mailto:contact@nowar72.info"
+#link.title = "Электронная почта"
+#link.icon.path = "icons/Business/mail-send-fill.svg"
+#link.property = "email"
 
 [[block]]
 link.url = "tg://resolve?domain=stopwar_tmn_bot"
