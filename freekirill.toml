@@ -1,0 +1,78 @@
+[general]
+html.pre = "header.html"
+html.post = "footer.html"
+
+[[block]]
+image.url = "/img/kirill.300px.jpg"
+image.alt = "Рисунок Кирилла с плакатом"
+image.classes = ["logo"]
+
+[[block]]
+heading.level = 1
+heading.text = "Свободу Кириллу Мартюшеву!"
+heading.classes = ["align-center"]
+
+[[block]]
+link.url = "https://memopzk.org/figurant/martyushev-kirill-igorevich/"
+link.title = "Карточка политзаключённого"
+link.icon.path = "icons/Business/profile-fill.svg"
+
+[[block]]
+link.url = "https://t.me/+vrzHo013kygyNmU6"
+link.title = "Координационный чат"
+link.icon.path = "icons/Logos/telegram-fill.svg"
+link.icon.alt = "Телеграм"
+
+[[block]]
+heading.level = 2
+heading.text = "Поддержать"
+
+[[block]]
+plain.text = "Кирилл просит писать письма о чём угодно, лишь бы вы заполнили всю страницу. Он вам обязательно ответит!"
+
+[[block]]
+plain.text = "ФИО: Мартюшев Кирилл Игоревич"
+
+[[block]]
+plain.text = "Дата рождения: 11.04.1999"
+
+[[block]]
+plain.text = "Адрес: 625000, г. Тюмень, ул. Ялуторовская, 42, ст 2, ФКУ СИЗО-1 УФСИН России по Тюменской области"
+
+[[block]]
+link.url = "https://rosuznik.org/"
+link.title = "Отправить бесплатное письмо"
+link.icon.path = "icons/Business/mail-send-fill.svg"
+
+[[block]]
+link.url = "https://fsin-pismo.ru/"
+link.title = "Отправить письмо (от 55 рублей)"
+link.icon.path = "icons/Business/mail-send-fill.svg"
+
+[[block]]
+link.url = "https://fsin-money.ru/"
+link.title = "Отправить деньги"
+link.icon.path = "icons/Finance/wallet-fill.svg"
+
+[[block]]
+link.url = "https://www.промсервис.рус/"
+link.title = "Купить вкусняшек"
+link.icon.path = "icons/Map/restaurant-2-fill.svg"
+
+[[block]]
+heading.level = 2
+heading.text = "Агитировать"
+
+[[block]]
+link.url = "https://drive.google.com/drive/folders/1YukXEI8JFLztt-jz_1q6X8OxOk5tULH8"
+link.title = "Листовки для расклейки"
+link.icon.path = "icons/Design/brush-2-fill.svg"
+
+[[block]]
+heading.level = 2
+heading.text = "Протестовать"
+
+[[block]]
+link.url = "https://drive.google.com/drive/folders/1ImAruGofqnrE5bEDk5bh89UEd_I_j6TY"
+link.title = "Плакаты для печати"
+link.icon.path = "icons/Business/printer-fill.svg"
