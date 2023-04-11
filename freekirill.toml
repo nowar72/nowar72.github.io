@@ -18,7 +18,7 @@ link.title = "Карточка политзаключённого"
 link.icon.path = "icons/Business/profile-fill.svg"
 
 [[block]]
-link.url = "https://t.me/+vrzHo013kygyNmU6"
+link.url = "tg://join?invite=vrzHo013kygyNmU6"
 link.title = "Координационный чат"
 link.icon.path = "icons/Logos/telegram-fill.svg"
 link.icon.alt = "Телеграм"
