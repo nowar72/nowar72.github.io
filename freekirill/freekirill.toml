@@ -51,7 +51,8 @@ link.icon.path = "icons/Business/mail-send-fill.svg"
 link.property = "contactPoint"
 
 [[block]]
-link.url = "https://fsin-pismo.ru/"
+#link.url = "https://fsin-pismo.ru/"
+link.url = "https://www.zonatelecom.ru/services/letter/payments-letter"
 link.title = "Отправить письмо (от 55 рублей)"
 link.icon.path = "icons/Business/mail-send-fill.svg"
 link.property = "contactPoint"
