@@ -64,11 +64,6 @@ link.title = "Подписаться на «Сигнал»"
 link.icon.path = "icons/Business/mail-add-fill.svg"
 
 [[block]]
-link.url = "mailto:antiwarletter@doxa.team?subject=Подпишите%20меня"
-link.title = "Подписаться на рассылку DOXA"
-link.icon.path = "icons/Business/mail-add-fill.svg"
-
-[[block]]
 heading.level = 2
 heading.text = "Наши кампании"
 
