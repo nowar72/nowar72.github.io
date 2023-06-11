@@ -58,7 +58,7 @@ link.icon.path = "icons/Business/mail-send-fill.svg"
 link.property = "contactPoint"
 
 [[block]]
-link.url = "https://fsin-money.ru/"
+link.url = "https://f-dengi.ru/"
 link.title = "Отправить деньги"
 link.icon.path = "icons/Finance/wallet-fill.svg"
 
