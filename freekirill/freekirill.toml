@@ -41,7 +41,7 @@ plain.text = "Дата рождения: 11.04.1999"
 plain.property = "birthDate"
 
 [[block]]
-plain.text = "Адрес: 625000, г. Тюмень, ул. Ялуторовская, 42, ст 2, ФКУ СИЗО-1 УФСИН России по Тюменской области"
+plain.text = "Адрес: 623017, г. Тюмень, ул. Авторемонтная, 29, ФКУ ИК-4 УФСИН России по Тюменской области"
 plain.property = "address"
 
 [[block]]
@@ -51,7 +51,6 @@ link.icon.path = "icons/Business/mail-send-fill.svg"
 link.property = "contactPoint"
 
 [[block]]
-#link.url = "https://fsin-pismo.ru/"
 link.url = "https://www.zonatelecom.ru/services/letter/payments-letter"
 link.title = "Отправить письмо (от 55 рублей)"
 link.icon.path = "icons/Business/mail-send-fill.svg"
