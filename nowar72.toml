@@ -31,10 +31,10 @@ link.title = "Присоединиться к антивоенной кампа�
 link.icon.path = "icons/System/add-circle-fill.svg"
 link.property = "significantLink"
 
-[[block]]
-link.url = "https://remap-ru.com/join"
-link.title = "Подписаться на антивоенные сообщества России"
-link.icon.path = "icons/User/team-fill.svg"
+#[[block]]
+#link.url = "https://remap-ru.com/join"
+#link.title = "Подписаться на антивоенные сообщества России"
+#link.icon.path = "icons/User/team-fill.svg"
 
 [[block]]
 heading.level = 2
@@ -47,11 +47,6 @@ plain.text = "Можно научиться обходить блокировк�
 link.url = "https://openrunet.org/"
 link.title = "Обход блокировок Рунета"
 link.icon.path = "icons/User/spy-fill.svg"
-
-[[block]]
-link.url = "https://свободныйвзгляд.рф/"
-link.title = "Читать новости без цензуры"
-link.icon.path = "icons/Document/newspaper-fill.svg"
 
 [[block]]
 link.url = "https://forms.sendpulse.com/8670eb6d40"
