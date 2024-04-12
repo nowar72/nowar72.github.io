@@ -76,16 +76,16 @@ link.url = "/freekirill/"
 link.title = "Свободу Кириллу Мартюшеву!"
 link.icon.path = "icons/System/arrow-right-circle-fill.svg"
 
-[[block]]
-link.url = "https://t.me/+33egegNnaS43N2My"
-link.title = "Волонтёры-почтальоны"
-link.icon.path = "icons/Business/inbox-archive-fill.svg"
-link.property = "significantLink"
+#[[block]]
+#link.url = "https://t.me/+33egegNnaS43N2My"
+#link.title = "Волонтёры-почтальоны"
+#link.icon.path = "icons/Business/inbox-archive-fill.svg"
+#link.property = "significantLink"
 
-[[block]]
-link.url = "https://t.me/+W9u06L-hrVk1MjAy"
-link.title = "Помощь беженцам"
-link.icon.path = "icons/Finance/hand-heart-fill.svg"
+#[[block]]
+#link.url = "https://t.me/+W9u06L-hrVk1MjAy"
+#link.title = "Помощь беженцам"
+#link.icon.path = "icons/Finance/hand-heart-fill.svg"
 
 [[block]]
 heading.level = 2
