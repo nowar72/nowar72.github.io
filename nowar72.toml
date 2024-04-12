@@ -25,8 +25,8 @@ link.title = "Подписаться на нас в Fediverse"
 link.icon.path = "icons/Logos/mastodon-fill.svg"
 
 [[block]]
-link.url = "https://t.me/nowar72"
-link.title = "Подписаться на Telegram-канал"
+link.url = "tg://join?invite=estlQWd1aoQ5MDNi"
+link.title = "Вступить в Telegram-чат"
 link.icon.path = "icons/Logos/telegram-fill.svg"
 
 [[block]]
