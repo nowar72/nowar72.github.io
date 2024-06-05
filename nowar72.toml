@@ -48,7 +48,7 @@ heading.text = "Доступ к информации"
 plain.text = "Можно научиться обходить блокировки, а можно подписаться на рассылку (почта Яндекс или Mail.ru может не работать)."
 
 [[block]]
-link.url = "https://openrunet.org/"
+link.url = "http://web.archive.org/web/20240602164635/https://openrunet.org/"
 link.title = "Обход блокировок Рунета"
 link.icon.path = "icons/User/spy-fill.svg"
 
