@@ -66,6 +66,11 @@ link.icon.path = "icons/Business/mail-add-fill.svg"
 heading.level = 2
 heading.text = "Наши кампании"
 
+[[block]]
+link.url = "/stickers2023.pdf"
+link.title = "Скачать стикеры для расклейки"
+link.icon.path = "icons/Business/printer-fill.svg"
+
 #[[block]]
 #link.url = "https://protest.nowar72.info/"
 #link.title = "Протест в твоём дворе"
