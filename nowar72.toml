@@ -76,10 +76,10 @@ link.icon.path = "icons/Business/printer-fill.svg"
 #link.title = "Протест в твоём дворе"
 #link.icon.path = "icons/Buildings/community-fill.svg"
 
-[[block]]
-link.url = "/freekirill/"
-link.title = "Свободу Кириллу Мартюшеву!"
-link.icon.path = "icons/System/arrow-right-circle-fill.svg"
+#[[block]]
+#link.url = "/freekirill/"
+#link.title = "Свободу Кириллу Мартюшеву!"
+#link.icon.path = "icons/System/arrow-right-circle-fill.svg"
 
 #[[block]]
 #link.url = "https://t.me/+33egegNnaS43N2My"
