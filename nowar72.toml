@@ -15,7 +15,7 @@ heading.classes = ["align-center"]
 heading.property = "name"
 
 [[block]]
-plain.text = "Независимая группа региональных активисток и активистов."
+plain.text = "Независимая группа региональных активисток и активистов, существовавшая в 2022–2023 годы."
 plain.classes = ["align-center", "bio"]
 plain.property = "description"
 
@@ -97,7 +97,7 @@ heading.level = 2
 heading.text = "Анонимная переписка"
 
 [[block]]
-plain.text = "Публикуем красивые фото граффити, листовок и зелёных лент. Помогаем организоваться. Принимаем запросы от СМИ."
+plain.text = "Пишите нам в случае необходимости, постараемся ответить."
 
 [[block]]
 link.url = "mailto:nowar72@disroot.org"
@@ -116,26 +116,29 @@ heading.level = 2
 heading.text = "Пожертвования"
 
 [[block]]
-link.url = "https://boosty.to/nowar72"
-link.title = "Ежемесячный платёж (Boosty)"
-link.icon.path = "icons/Business/calendar-check-fill.svg"
+plain.text = "Пожертвования больше не принимаются, так как организация не ведёт никакой деятельности."
 
-[[block]]
-link.url = "https://yoomoney.ru/to/410012638015988"
-link.title = "Единоразовый платёж"
-link.icon.path = "icons/Finance/bank-card-fill.svg"
+#[[block]]
+#link.url = "https://boosty.to/nowar72"
+#link.title = "Ежемесячный платёж (Boosty)"
+#link.icon.path = "icons/Business/calendar-check-fill.svg"
 
-[[block]]
-link.url = "bitcoin:bc1q8z37xlzjm2pqzsakkhd2ylwnqfmjycl6hxgk66"
-link.title = "Bitcoin"
-link.icon.path = "icons/Finance/bit-coin-fill.svg"
+#[[block]]
+#link.url = "https://yoomoney.ru/to/410012638015988"
+#link.title = "Единоразовый платёж"
+#link.icon.path = "icons/Finance/bank-card-fill.svg"
 
-[[block]]
-link.url = "ethereum:0x8159693bD469df98f27b1C4b6630859fff5A481F"
-link.title = "Ethereum"
-link.icon.path = "icons/Finance/copper-coin-fill.svg"
+#[[block]]
+#link.url = "bitcoin:bc1q8z37xlzjm2pqzsakkhd2ylwnqfmjycl6hxgk66"
+#link.title = "Bitcoin"
+#link.icon.path = "icons/Finance/bit-coin-fill.svg"
 
-[[block]]
-link.url = "monero:8AdYZ9qeHcZgsaMMmvujiwTS9e4rt2hET2Ndpm3Co33yYpNd3MtvHaM3H2dwpdASPWjc4dEo9enScSQaifkk4huc1JEEYeo"
-link.title = "Monero"
-link.icon.path = "icons/Finance/copper-coin-fill.svg"
+#[[block]]
+#link.url = "ethereum:0x8159693bD469df98f27b1C4b6630859fff5A481F"
+#link.title = "Ethereum"
+#link.icon.path = "icons/Finance/copper-coin-fill.svg"
+
+#[[block]]
+#link.url = "monero:8AdYZ9qeHcZgsaMMmvujiwTS9e4rt2hET2Ndpm3Co33yYpNd3MtvHaM3H2dwpdASPWjc4dEo9enScSQaifkk4huc1JEEYeo"
+#link.title = "Monero"
+#link.icon.path = "icons/Finance/copper-coin-fill.svg"
